@@ -1,0 +1,14 @@
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\bin\Debug\net8.0\ContosoPetsUpdateChallenge.exe
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\bin\Debug\net8.0\ContosoPetsUpdateChallenge.deps.json
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\bin\Debug\net8.0\ContosoPetsUpdateChallenge.runtimeconfig.json
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\bin\Debug\net8.0\ContosoPetsUpdateChallenge.dll
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\bin\Debug\net8.0\ContosoPetsUpdateChallenge.pdb
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.AssemblyInfoInputs.cache
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.AssemblyInfo.cs
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.csproj.CoreCompileInputs.cache
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.dll
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\refint\ContosoPetsUpdateChallenge.dll
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.pdb
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ContosoPetsUpdateChallenge.genruntimeconfig.cache
+C:\B\God\C# (Microsoft)\Projects\ContosoPetsUpdateChallenge\obj\Debug\net8.0\ref\ContosoPetsUpdateChallenge.dll
